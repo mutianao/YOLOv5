@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpeg1</folder>
+	<filename>824.jpg</filename>
+	<path>C:\Users\陈大光\Desktop\shuju\jpeg1\824.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>红灯</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>132</ymin>
+			<xmax>349</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+</annotation>

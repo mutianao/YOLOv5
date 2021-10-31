@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpeg1</folder>
+	<filename>600.jpg</filename>
+	<path>C:\Users\陈大光\Desktop\shuju\jpeg1\600.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>533</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>绿灯</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>422</xmin>
+			<ymin>103</ymin>
+			<xmax>446</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+</annotation>

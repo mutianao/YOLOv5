@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>0317.jpg</filename>
+	<path>C:\Users\陈大光\Desktop\voc2007\1\0317.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>红灯</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>398</xmin>
+			<ymin>301</ymin>
+			<xmax>439</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

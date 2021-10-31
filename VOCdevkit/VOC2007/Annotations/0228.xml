@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>0228.jpg</filename>
+	<path>C:\Users\86187\Desktop\vocset\JPEGImages\0228.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>565</width>
+		<height>287</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>绿灯</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>230</xmin>
+			<ymin>31</ymin>
+			<xmax>265</xmax>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+</annotation>

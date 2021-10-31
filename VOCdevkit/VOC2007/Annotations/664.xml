@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpeg1</folder>
+	<filename>664.jpg</filename>
+	<path>C:\Users\86187\Desktop\vocDataAugmentation\jpeg1\664.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>678</width>
+		<height>502</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>红灯</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>93</ymin>
+			<xmax>280</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+</annotation>
